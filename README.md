@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sisko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sisko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yassinebouchama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassinebouchama" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/siskoweb" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="siskoweb" height="30" width="40" /></a>
 </p>
