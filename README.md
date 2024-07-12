@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siskoweb&label=Profile%20views&color=0e75b6&style=flat" alt="siskoweb" /> </p>
 
-- 🌱 I’m currently learning **Jest ,<s>React Native</s>,Nestjs**
+- 🌱 I’m currently learning **Jest ,<s>React Native,Nestjs</s>**
 
 - 👨‍💻 All of my projects are available at [yassine.info](yassine.info)
 
