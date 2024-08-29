@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine Bouchama</h1>
-<h3 align="center">I am Full Stack Developer.</h3>
+<h3 align="center">Software Developer Student 💻👨‍💻( React.js Node, Express , MongoDB - Mysql ,Nest.js ,Nextjs, React Native ,PHP Laravel, ), I love to build things that make people's lives easy..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siskoweb&label=Profile%20views&color=0e75b6&style=flat" alt="siskoweb" /> </p>
 
