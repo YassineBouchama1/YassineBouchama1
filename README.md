@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **<s>Jest ,React Native,Nestjs</s>, AWS**
 
-- 👨‍💻 All of my projects are available at [yassine.info]([yassine.info](https://yassine.info/))
+- 👨‍💻 All of my projects are available at [yassine.info]((https://yassine.info/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
